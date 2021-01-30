@@ -115,12 +115,12 @@ functions:
 #       Description: "Description for the output"
 #       Value: "Some output value"
 
-plugins:
-  - serverless-domain-manager
-
-custom:
-  customDomain:
-    domainName: mawild.link
-    basePath: ''
-    stage: ${self:provider.stage}
-    createRoute53Record: true
+#plugins:
+#  - serverless-domain-manager
+#
+#custom:
+#  customDomain:
+#    domainName: mawild.link
+#    basePath: ''
+#    stage: ${self:provider.stage}
+#    createRoute53Record: false
