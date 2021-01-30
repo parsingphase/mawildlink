@@ -18,7 +18,7 @@ redirects = [
      "https://www.dropbox.com/s/0atgonhehc960mz/MAwildGuide.pdf"],
     ["philosophy", "Moderation Philosophy",
      "https://www.facebook.com/notes/massachusetts-wildlife/moderation-philosophy-for-massachusetts-wildlife/753679958712237/"],
-    ["dslrwild", "Guide To DSLR Photography (by an admin, not a group document)",
+    ["dslrwild", "Guide To DSLR Photography (by an admin, public)",
      "https://parsingphase.medium.com/some-notes-on-wildlife-photography-6370ea4f8965"],
     ["moderateyournope", "Phobia Handling Request",
      "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
@@ -38,7 +38,7 @@ header = """<!doctype html>
 <body><div class="container">
 <h1>mawild.link redirection service</h1>
 <p>This is a link-shortening service for the Massachusetts Wildlife Facebook Group,
- which is run by the <a href="http://mawildlifecollective.com">Massachusetts Wildlife Collective</a></p>
+ from the <a href="http://mawildlifecollective.com">Massachusetts Wildlife Collective</a></p>
 """
 
 footer = """</div>
@@ -46,7 +46,7 @@ footer = """</div>
     style="position: absolute; bottom: 0; width: 100%; margin-top: 20px; height: 56px;line-height: 56px;">
         <div class="container-fluid">
             <div class="gh-link" style=" padding-right: 4px; float: right"><a
-                    class="text-dark" href="https://github.com/parsingphase"><i
+                    class="text-dark" href="https://github.com/parsingphase/mawildlink"><i
                     class="fab fa-github"></i></a></div>
             <div style="float: right; padding-right: 16px;">
                 mawild.link created by <a class="text-dark" href="https://parsingphase.dev">parsingphase</a>
