@@ -60,7 +60,7 @@ provider:
 
 functions:
   hello:
-    handler: handler.hello
+    handler: handler.redirect
     events:
       - httpApi: '*'
 #    The following are a few example events you can configure
