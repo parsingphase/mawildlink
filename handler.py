@@ -1,7 +1,9 @@
 redirects = [
-    ["welcome", "Facebook Group Welcome Post", "https://www.facebook.com/notes/1351087361921547"],
+    ["welcome", "Facebook Group Welcome Post",
+     "https://www.facebook.com/notes/massachusetts-wildlife/welcome-to-the-massachusetts-wildlife-group/1351087361921547/"],
     ["fb", "Facebook Group", "https://www.facebook.com/groups/MAWildlife"],
-    ["rules", "Facebook Group Rules",
+    ["about", "Facebook 'About' page with short-form rules", "https://www.facebook.com/groups/MAWildlife/about"],
+    ["rules", "Facebook Group Full Rules",
      "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-rules-details/3045269308934439/"],
     ["rulesdetails", None,
      "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-rules-details/3045269308934439/"],
@@ -10,11 +12,11 @@ redirects = [
     ["owls", "Owl Observation Policy",
      "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
     ["care", "Vulnerable / Injured Animal Guidance",
-     "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
+     "https://www.facebook.com/notes/massachusetts-wildlife/concerned-about-an-animal-massachusetts-wildlife-notes/606931346466734/"],
     ["cares", None,
-     "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
+     "https://www.facebook.com/notes/massachusetts-wildlife/concerned-about-an-animal-massachusetts-wildlife-notes/606931346466734/"],
     ["mawildcares", None,
-     "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
+     "https://www.facebook.com/notes/massachusetts-wildlife/concerned-about-an-animal-massachusetts-wildlife-notes/606931346466734/"],
     ["carepdf", "Vulnerable / Injured Animal Guidance, public PDF version",
      "https://www.dropbox.com/s/0atgonhehc960mz/MAwildGuide.pdf"],
     ["announce", "Group Announcements",
@@ -24,8 +26,8 @@ redirects = [
     ["dslrwild", "Guide To DSLR Photography (by an admin, public)",
      "https://parsingphase.medium.com/some-notes-on-wildlife-photography-6370ea4f8965"],
     ["moderateyournope", "Phobia Handling Request",
-     "https://www.facebook.com/notes/massachusetts-wildlife/massachusetts-wildlife-owl-observation-policy/845927992925738/"],
-    ["pinned", "Group Pinned Post", "https://www.facebook.com/groups/MAWildlife/permalink/649606069019913/"],
+     "https://www.facebook.com/groups/MAWildlife/permalink/675710319742821/"],
+    ["pinned", None, "https://www.facebook.com/groups/MAWildlife/permalink/649606069019913/"],
     ["members", "Group Members and Administration Team", "https://www.facebook.com/groups/MAWildlife/members"]
 ]
 
